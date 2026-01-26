@@ -1,4 +1,5 @@
-## Hi there 👋
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Gavin;Computer+Science+@+RPI;Sports+Analytics+Founder)](https://git.io/typing-svg)
 
 <!--
 **gavinc1225/gavinc1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
