@@ -1,6 +1,7 @@
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f6f0e8&width=435&lines=Hi%2C+I'm+Gavin;Computer+Science+@+RPI;)](https://git.io/typing-svg)
 
+
 <!--
 **gavinc1225/gavinc1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
